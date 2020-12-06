@@ -1,0 +1,1 @@
+Generally, a monolithic design is given when a software provides its functionality centralised in one or just a few classes. ... In visualization a software is called monolithic when abstract data, visual structures, and rendering routines are not separated explicity.
